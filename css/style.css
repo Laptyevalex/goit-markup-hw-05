@@ -163,6 +163,7 @@ background-color: var(--white-color);
     background-position: center;
     background-size: cover;
     text-align: center ;
+    display: block;
 }
 .second-section{
     padding-top: 120px;
@@ -502,8 +503,8 @@ padding-left: 0px;
     
 }
 
-.сustumers-title {
-    margin-bottom: 72px;
+.сustomers-title {
+    padding-bottom: 72px;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
